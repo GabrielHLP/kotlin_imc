@@ -1,0 +1,2 @@
+include ':app', ':tela2'
+rootProject.name='Calculadora IMC'
